@@ -7,4 +7,4 @@
   
 ⏳ 23 Years of age  
 📚 Studying Software Engineering (Bachelors Degree)  
-💡 Interested in Java, .NET, PHP & Bootstrap
+💡 Interested in fullstack (web)development
