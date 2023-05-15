@@ -5,6 +5,5 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=Ziqq.nl&message=%20&color=darkcyan&logo=Ziqq.nl&style=flat-square&logoColor=blue)](https://ziqq.nl/)
 
   
-⏳ 23 Years of age  
 📚 Studying Software Engineering (Bachelors Degree)  
 💡 Interested in fullstack (web)development
