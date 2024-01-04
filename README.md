@@ -6,7 +6,7 @@
 
   
 - 💡 DevOps: (Azure, AWS, Google CLoud, Kubernetes, Docker, Helm, Jenkins, OpenShift, Rancher, Kustomize, Flux)
-- 💡 (Web)Dev: (.NET, Java, Angular, Svelte, ExpressJS, PHP)
+- 💡 (Web)Dev: (.NET, Java, Angular, Svelte, VueJS, ExpressJS, PHP)
 - 💡 Big Data: (Kafka)
 - 💡 IoT: (C++, Python, Kotlin)
 - 💡 Databases: (MongoDB, MySQL, MSSQL, PostgreSQL)
